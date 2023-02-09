@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A00FC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Janaina;Be+Welcome!+:%29)](https://git.io/typing-svg)
 </p>
 
+<img src="https://i.pinimg.com/originals/bf/36/97/bf369706f49c9cd6260d16ffeddb4234.png" min-width="400px" max-width="300px" width="300px" align="left">
 
 # ☽ About Me:
 ❣ Olá, bem vindes ❣<br>
