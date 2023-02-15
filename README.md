@@ -9,7 +9,7 @@
 # ☽ About Me:
 ❣ Olá, bem vindes ❣<br>
 
-✤ Sou progamadora, desenvolvedora e analista de sistemas ✤ <br><br>🟣 2001 - SP ✧<br>🟣 Estudante de analise e desenvolvimente de sistemas 🎓<br>🟣 Sempre em busca de evolução e conhecimento ♜
+-✤ Sou progamadora, desenvolvedora e analista de sistemas ✤- <br><br>🟣 2001 - SP ✧<br>🟣 Estudante de analise e desenvolvimente de sistemas 🎓<br>🟣 Sempre em busca de evolução e conhecimento ♜
 
 
 ## 🌐 Social:
