@@ -7,7 +7,7 @@
 <img src="https://i.pinimg.com/564x/fd/f2/8d/fdf28d652bb1da4665b3992c2da5d144.jpg" min-width="400px" max-width="300px" width="300px" align="left">
 
 # ☽ About Me
-❣ Hi, bem vindes ❣<br>
+❣ Olá, bem vindes ❣<br>
 
 ✤ Sou progamadora, desenvolvedora e analista de sistemas ✤ <br><br>🟣 2001 - SP ✧<br>🟣 Estudante de analise e desenvolvimente de sistemas 🎓<br>🟣 Sempre em busca de evolução e conhecimento ♜
 
