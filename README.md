@@ -20,6 +20,6 @@
 <img src = "https://media4.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif?cid=ecf05e4762onev9ocwcg10bpylaw3thblepu27uk75jioqmt&rid=giphy.gif&ct=g" width = "1500" height = "150">
 ---
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=figueredo13&label=Profile%20Views&color=4&icon=9&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=figueredo13&label=Profile%20Views&color=11&icon=9&pretty=true" />
 </a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
